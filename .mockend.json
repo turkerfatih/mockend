@@ -1,0 +1,8 @@
+{
+  "ConfigurationData": 
+ {
+
+    "SomeStringField": {"loremWords": { "minLength": 3, "maxLength": 20 },
+    "SomeIntField": { "int": { "min": 0, "max": 1000000 } } 
+  }
+}
