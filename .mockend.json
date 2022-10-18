@@ -1,6 +1,6 @@
 {
   "ConfigurationData": {
     "someStringField": { "string": {} },
-    "someIntField": { "int": {} },
+    "someIntField": { "int": {} }
   }
 }
